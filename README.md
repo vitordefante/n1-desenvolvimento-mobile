@@ -19,3 +19,6 @@ Este é um aplicativo Flutter que simula a interface de uma loja de jogos para d
 ## Pré-requisitos
 
 - Flutter SDK instalado e configurado no seu ambiente de desenvolvimento.
+
+## Como executar o aplicativo
+Crie um projeto padrao do Flutter e substitua a pasta lib por essa pasta do projeto.
