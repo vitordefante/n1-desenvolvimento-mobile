@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:freelance_guido/pages/games_page.dart';
-import 'package:freelance_guido/utils/routes.dart';
+import '/pages/games_page.dart';
+import '/utils/routes.dart';
 import '/pages/games_categories_page.dart';
 import 'pages/home_page.dart';
 
